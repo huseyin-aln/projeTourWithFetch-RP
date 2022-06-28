@@ -26,7 +26,7 @@ const Tour = ({id, image, info, name, price, removeTour}) => {
       </footer>
 
     </article>
-  )
+  );
 };
 
 export default Tour;
