@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Tour Project</h1>
 
 <div align="center">
