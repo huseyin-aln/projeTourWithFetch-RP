@@ -1,6 +1,3 @@
-## projeTourWithFetch-RP
-
-https://projetourwithfetch-rp.netlify.app/
 
 
 <h1 align="center">Tour Project</h1>
